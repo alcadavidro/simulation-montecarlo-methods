@@ -1,2 +1,2 @@
 # simulation-montecarlo-methods
-Collection of methods for simulation using montecarlo methods
+Collection of scripts for simulation using montecarlo methods
